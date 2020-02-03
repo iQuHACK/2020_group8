@@ -1,3 +1,8 @@
+
+_Organizer's note:_ this project won the **technical merit award** in iQuHACK 2020.
+
+---
+
 # Quantum simultion and entanglement entropy measurement of 2D transverse field Ising model
 
 
